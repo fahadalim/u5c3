@@ -1,3 +1,6 @@
+Its a assignment for getting the record  for employee. We can add remove and promote employee.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
